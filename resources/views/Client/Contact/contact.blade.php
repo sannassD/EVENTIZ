@@ -52,8 +52,8 @@
                                 <i class="fa fa-map-marker-alt white"></i>
                             </div>
                             <div class="info-content">
-                                <h5>Le kef</h5>
-                                <p class="mb-0">8 Rue Abu elkacem chebbi</p>
+                                <h5>Thies</h5>
+                                <p class="mb-0">Thies, Senegal</p>
                             </div>
                         </div>
                     </div>
@@ -64,7 +64,7 @@
                             </div>
                             <div class="info-content">
                                 <h5>Telephone</h5>
-                                <p class="m-0"> (+216) 93966440</p>
+                                <p class="m-0"> (+221) 77 299 57 16</p>
                              
                             </div>
                         </div>
@@ -76,7 +76,7 @@
                             </div>
                             <div class="info-content ps-4">
                                 <h5>Email</h5>
-                                <p class="m-0">benarfaakrem@gmail.com</p>
+                                <p class="m-0">example@gmail.com</p>
                             </div>
                         </div>
                     </div>
@@ -120,15 +120,21 @@
                             </form>
                         </div>
                         <div class="col-lg-4 ps-lg-4 mb-4">
-                            <div class="map">
-
-                                <div style="width: 100%">
-                                    <iframe height="500" src="https://maps.google.com/maps?q=Le%20kef&t=&z=9&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-
-
-                                </div>
-                            </div>
-                        </div>
+    <div class="map">
+        <div style="width: 100%">
+            <iframe 
+                height="500" 
+                style="width: 100%" 
+                frameborder="0" 
+                scrolling="no" 
+                marginheight="0" 
+                marginwidth="0" 
+                src="https://maps.google.com/maps?q=Thi%C3%A8s%2C%20S%C3%A9n%C3%A9gal&z=12&ie=UTF8&output=embed&t=h"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+</div>
                     </div>
                 </div>
             </div>

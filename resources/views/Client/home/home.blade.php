@@ -13,10 +13,10 @@
             <div class="row align-items-end">
                 <div class="col-lg-7 mb-10">
                     <div class="banner-content text-lg-start text-center">
-                        <h4 class="theme mb-0">Big Event 2023</h4>
+                        <h4 class="theme mb-0">Big Event 2025</h4>
                         <div class="selector4" style="display: flex; justify-content: center;">
                             <h1 class="ah-headline white">
-                                <span>World Biggest 2023</span>
+                                <span>World Biggest 2025</span>
                                 <span class="ah-words-wrapper white">
                                     <b class="is-visible textcap">Conference</b>
                                     <b>Conference</b>
