@@ -134,7 +134,7 @@
                             <!-- item-->
                           
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item text-danger" href="{{route('logoutt')}}"><i class="bx bx-power-off font-size-17 align-middle me-1 text-danger"></i> Déconnexion</a>
+                            <a class="dropdown-item text-danger" href="{{route('logout')}}"><i class="bx bx-power-off font-size-17 align-middle me-1 text-danger"></i> Déconnexion</a>
                         </div>
                     </div>
 

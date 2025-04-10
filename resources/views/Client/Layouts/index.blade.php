@@ -140,7 +140,7 @@
                                     </li>
                                     @if (Auth::user()->role == 'demandeur')
                                         <li>
-                                            <a href="#"
+                                            <a href=""
                                                style="color: #f2f2f2;"
                                                data-toggle="dropdown"
                                                role="button"
